@@ -10,7 +10,7 @@ losses/option_*
 losses/testing
 losses/*.png
 
-
+*.txt
 BrightnessCriterion.lua
 SmoothnessCriterion.lua
 prac_nngraph.lua
