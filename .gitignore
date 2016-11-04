@@ -1,0 +1,16 @@
+checkpoints/HED_*.t7
+checkpoints/Losses_*.t7
+checkpoints/model_*.t7
+checkpoints/optimState_*.t7
+checkpoints/adam_*
+checkpoints/with_*
+
+losses/adam_*
+losses/option_*
+losses/testing
+losses/*.png
+
+
+BrightnessCriterion.lua
+SmoothnessCriterion.lua
+prac_nngraph.lua
